@@ -1,5 +1,5 @@
 const { describe, test, expect } = global;
-import { getCarFees } from '../src/car-rental-bug-fixing/Utils';
+import { getCarFees } from '../src/car-rental/Utils';
 
 describe('CRS-001', function () {
     test('If car 1 is rented, the value must be 70', async function () {
