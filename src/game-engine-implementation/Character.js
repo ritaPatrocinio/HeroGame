@@ -11,7 +11,6 @@ export default class Character {
     }
 
     attack(character) {
-
     }
 
     takeAHit(damage) {

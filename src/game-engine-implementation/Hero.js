@@ -1,4 +1,5 @@
 import Character from './Character';
+import { Config } from './GamePlay';
 
 export default class Hero extends Character {
     experience;

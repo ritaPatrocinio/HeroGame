@@ -1,7 +1,7 @@
 const { describe, test, expect } = global;
-import GamePlay, { Config } from '../../src/game-engine-implementation/GamePlay';
-import Hero from '../../src/game-engine-implementation/Hero';
-import Enemy from '../../src/game-engine-implementation/Enemy';
+import GamePlay, { Config } from '../src/game-engine-implementation/GamePlay';
+import Hero from '../src/game-engine-implementation/Hero';
+import Enemy from '../src/game-engine-implementation/Enemy';
 
 describe('GE-sample-simple-fight', function () {
 
